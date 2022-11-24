@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🚀 Connect on
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.facebook.com/mutyola333">
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://twitter.com/mutyola333">
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://t.me/mutyola333">
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/in/mutyola">
+				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
+			</a>
+		</td>
+	</tr>
+</table>
