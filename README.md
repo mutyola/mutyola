@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Connect on
+### 🚀 Connect with me on
 
 <table>
 	<tr>
