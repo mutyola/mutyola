@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 😄About me :
+### About me :
 
 ## ⚡ I am a teacher, and overall, I am a lifelong learner who is passionate about education and technology. I love teaching and sharing my knowledge with others, and I believe technology can be a powerful tool for education. Whether its using Machine learning to better understand complex data or leveraging digital marketing to promote educational resources, I am always looking for new ways to help my students and colleagues learn and grow. <br>
 ## ⚡ My ultimate goal is to help bridge the gap between technology and education in Zambia and Africa at large. I believe that intergrating technology into education, we can provide more opportunities for students to learn and grow, and prepare them for the rapidly evolving technological landscape.<br>
